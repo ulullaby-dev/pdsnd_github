@@ -1,3 +1,4 @@
+#Albert De Palma - Udacity US Bike Sharing Data Project
 import time
 import pandas as pd
 import numpy as np
