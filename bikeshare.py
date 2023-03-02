@@ -1,3 +1,5 @@
+#Albert De Palma - Udacity US Bike Sharing Data Project
+#Final revision for Version Control Project 03/02/2023
 import time
 import pandas as pd
 import numpy as np
