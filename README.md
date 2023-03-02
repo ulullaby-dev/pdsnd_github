@@ -7,11 +7,11 @@
 US-Bike-Sharing-Data
 
 ### Description
-Aggregates data from .csv files and prompts for user input to display reqeusted information
+Aggregates data from .csv files and prompts for user input to display reqeusted information.  Uses .gitignore file to ignore .csv files from git push/pull
 
 ### Files used
-bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
+bikeshare.py, chicago.csv, new_york_city.csv, washington.csv, README.md, .gitignore
 
 ### Credits
-Udacity
+Udacity, Albert De Palma
 
